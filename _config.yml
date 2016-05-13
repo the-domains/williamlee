@@ -1,6 +1,6 @@
 name: williamlee
 favicon: null
-layout_spectrum: 0.23254420794546604
+layout_spectrum: 0.86315
 typography_spectrum: 0.026334167923778296
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6390253868885338
-  lightness: 0.5888093702960759
-  saturation: 0.3507316706236452
-  rhythmicContrast: 0.7024900342803448
+  brandStrength: 0.8125
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
